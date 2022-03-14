@@ -1,9 +1,9 @@
 # Dacon_LG_AI_Competition_2022
 
-#Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회
+# Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회
 https://dacon.io/competitions/official/235870/overview/description
 
-#프로젝트 개요 
+# 프로젝트 개요 
 - 농작물의 이미지와 내부온도, 내부습도, 이슬점 등이 담긴 속성 데이터를 이용해 해당 작물이 어떤 병충해에 걸렸는지 분류하는 대회 
 # 데이터 
 - 데이터는 크게 3개로 나뉘어 있음 - 이미지, Annotation, 환경 데이터 
